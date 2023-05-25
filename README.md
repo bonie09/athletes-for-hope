@@ -1,4 +1,6 @@
-## INFO 5100 FINAL PROJECT
+# INFO 5100 FINAL PROJECT
+
+## This project was associated with Northeastern University [INFO-5100 Class]. The original repository of this project is [here](https://github.com/Bonie1999/Athletes-for-Hope). [Note: The account used for committing the code was Northeastern's only which is "Bonie1999"]
 
 ## Topic: Athletes for Hope - Empowering young athletes to score big in life.
 
